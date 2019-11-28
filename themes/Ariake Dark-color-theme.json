@@ -2,7 +2,7 @@
   "tokenColors": "./Ariake Dark-color-theme.tmTheme",
   "colors": {
     "editor.lineHighlightBackground": "#65737e30",
-    "editor.background": "#2a2d37", // 2b303b
+    "editor.background": "#191c22", // 2b303b
     "editorCursor.foreground": "#c0c5ce",
     "editor.selectionBackground": "#4f5b66",
     "editor.foreground": "#c0c5ce",
